@@ -2,6 +2,10 @@ import * as model from "../src/model.js";
 
 model.Hi();
 
+console.log(
+  "script was changed here as well to see if new version has been updated"
+);
+
 const play = document.getElementById("play");
 const sound = document.getElementById("whoosh");
 console.log(sound);

@@ -1,0 +1,23 @@
+{
+  "name": "practice-upload-to-pages-1",
+  "version": "1.0.0",
+  "description": "A chance to smooth out the process of uploading to github pages",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcloeter/Practice-Upload-to-Pages.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcloeter/Practice-Upload-to-Pages/issues"
+  },
+  "homepage": "https://github.com/jcloeter/Practice-Upload-to-Pages#readme",
+  "dependencies": {
+    "parcel": "^2.0.0-rc.0"
+  }
+}
