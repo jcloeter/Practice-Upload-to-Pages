@@ -1,5 +1,7 @@
 import * as model from "../src/model.js";
 
+console.log("Welcome to the application 😉🎶🎂🎉👏🤷‍♀️🐱‍👓🤷‍♀️🐱‍🏍😘💋");
+
 model.Hi();
 
 console.log(
